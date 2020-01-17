@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "594108042796",
+    "firebase_url": "https://superanyachat-fe2e8.firebaseio.com",
+    "project_id": "superanyachat-fe2e8",
+    "storage_bucket": "superanyachat-fe2e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594108042796:android:8499f2a56ce14c141d4b89",
+        "android_client_info": {
+          "package_name": "com.example.superanyachat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594108042796-c31m7u7gd2qvivcv13fqiktm68d99anf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGYQCt7VIPPiNzBBnYpvDX9j4xd0zmIxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594108042796-c31m7u7gd2qvivcv13fqiktm68d99anf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
